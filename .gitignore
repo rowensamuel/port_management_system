@@ -1,0 +1,33 @@
+# Build directories
+build/
+dist/
+target/
+out/
+
+# IDE
+.classpath
+.project
+.settings/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Dependencies
+lib/
+
+# IDE files
+*.iml
+.idea/
+*.sublime-workspace
+
+# Compiled classes
+*.class
