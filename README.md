@@ -1,4 +1,4 @@
-# Port Management System - Dock Allocation
+# Port Management System 
 
 A comprehensive Java web application for managing port dock allocations, ship management, container handling, and cargo tracking. Built with Java Servlets, JSP, and MySQL.
 
